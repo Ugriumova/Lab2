@@ -1,4 +1,4 @@
-#include <stdio.h>
+п»ї#include <stdio.h>
 #include <locale.h>
 
 float main()
@@ -10,7 +10,7 @@ float main()
     L = 133;
     p = 2;
     j = 133;
-    printf("Дано:\n\t\t%d\n\t\t%d\n\t\t________\nОтвет:\n\t\t%+d%2.4f", n, L, n / L,p/j);
+    printf("Р”Р°РЅРѕ:\n\t\t%d\n\t\t%d\n\t\t________\nРћС‚РІРµС‚:\n\t\t%+d%2.4f", n, L, n / L,p/j);
 
 
 }
